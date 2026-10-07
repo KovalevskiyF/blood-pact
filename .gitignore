@@ -1,0 +1,12 @@
+Вывод/
+*.win
+*.exe
+*.app
+*.unx
+*.ios
+*.apk
+*.zip
+*.log
+*.yydebug
+options/main/inherited/
+.idea/
